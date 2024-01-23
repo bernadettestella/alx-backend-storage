@@ -1,0 +1,3 @@
+// lists all databses present in a session
+
+show dbs
